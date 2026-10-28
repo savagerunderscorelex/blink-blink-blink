@@ -13,5 +13,5 @@ I finally completed the PCB build today almost a year after I designed it. I did
 I did two PCBs because the kit included enough to do so. One has red LEDs and the other has white LEDs. I had no issues with continuity either, but I had to supply the power source myself (thank God I still had a battery from a project last year!). 
 
 Here is the photo of the PCBs.
-<img src="built_pcb.png">
+<img src="built_pcb.jpeg">
 
